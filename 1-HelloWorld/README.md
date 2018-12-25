@@ -9,8 +9,10 @@ You will need brew to make things easier. Type ``` brew ``` on the command line 
 
 First we need to install node. This is a runtime environment for the javascript to execute in. 
 ```brew install node```
+
 Next we need to install the node package manager. TODO: describe what this does.
 ``` brew install npm ```
+
 Lastly, we need to install express, the javascript web framework we will be using.
 ``` npm install express ```
 
