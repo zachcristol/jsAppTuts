@@ -21,4 +21,4 @@ Lastly, we need to install express, the javascript web framework we will be usin
 
 Run app.js on the javascript interpreter node by executing.  
 ```node app.js```  
-The script will be hanging, because it is serving a string. To see this string, go to the port that it is serving (http://localhost:3000).
+The script will be hanging, because it is serving a string. To see this string, go to the port that the app is running on: http://localhost:3000
